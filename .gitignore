@@ -28,3 +28,6 @@ note
 pom.xml
 test
 demo
+nginx-1.18.0/logs/access.log
+nginx-1.18.0/logs/error.log
+nginx-1.18.0/logs/nginx.pid
